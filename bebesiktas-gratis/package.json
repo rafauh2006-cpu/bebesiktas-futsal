@@ -1,0 +1,1 @@
+{"name":"bebesiktas-gratis","private":true,"type":"module","scripts":{"test":"node --test test-worker.mjs","deploy":"npx wrangler@4 deploy","dev":"npx wrangler@4 dev"},"engines":{"node":">=20"}}

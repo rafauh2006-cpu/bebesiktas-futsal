@@ -1,0 +1,20 @@
+BEBESIKTAS FUTSAL — VERSIÓN GRUPO B
+
+He preparado esta versión a partir del ZIP original que enviaste. Ya está corregida para la 2.ª División, Grupo B, con datos municipales hasta la jornada 4.
+
+QUÉ SE HA CAMBIADO
+- Los 12 equipos reales del grupo B y su clasificación oficial.
+- Resultado Sporting de Majadahonda 5–8 Bebesiktas.
+- Calendario completo de 22 encuentros de Bebesiktas.
+- Los siete goleadores oficiales (13 goles).
+- Dos partidos contra Taberna El Farol marcados como excluidos según la nota municipal.
+- El lector automático ya busca calendario, clasificación y goleadores del grupo B.
+- Si la fuente falla, conserva los datos válidos y los marcadores ya confirmados.
+
+IMPORTANTE
+Esta versión todavía NO está publicada. No modifica tu web actual de ChatGPT Sites. Al publicarla en Cloudflare tendrá inicialmente otra dirección.
+
+SIGUIENTE PASO
+Conecta GitHub a ChatGPT cuando te aparezca la opción para que podamos intentar subir el proyecto desde aquí. Después habrá que vincular el repositorio a tu cuenta Cloudflare y configurar la base de datos y las claves privadas. No pegues contraseñas ni tokens en el chat.
+
+La guía técnica completa está en PUBLICAR.md.
