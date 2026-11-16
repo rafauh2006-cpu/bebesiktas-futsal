@@ -3,5 +3,5 @@
   "main": "worker.mjs",
   "compatibility_date": "2026-10-01",
   "assets": {"directory": "./public", "binding": "ASSETS", "run_worker_first": ["/api/*", "/admin"]},
-  "d1_databases": [{"binding": "DB", "database_name": "bebesiktas-data", "database_id": "REEMPLAZAR_CON_EL_ID_DE_TU_BASE"}]
+  "d1_databases": [{"binding": "DB", "database_name": "bebesiktas-data", "database_id": "0ca2ab0f-b613-41dd-a0d2-0ae9e87fef9b"}]
 }
